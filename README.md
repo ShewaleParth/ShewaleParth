@@ -1,7 +1,20 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a1f6e,100:6c3de8&height=200&section=header&text=Hi%20there!%20I%27m%20Parth%20Shewale&fontSize=40&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Final%20Year%20AI%20%26%20Data%20Science%20Student&descAlignY=60&descSize=20&descColor=c4b5fd" />
+<svg width="100%" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="50%" style="stop-color:#1a1f6e"/>
+      <stop offset="100%" style="stop-color:#6c3de8"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="200" fill="url(#bg)" rx="0"/>
+  <path d="M0,140 C150,100 300,180 450,140 C600,100 750,160 900,130 L900,200 L0,200 Z" fill="#6c3de8" opacity="0.4"/>
+  <path d="M0,160 C200,130 400,175 600,150 C750,130 850,165 900,155 L900,200 L0,200 Z" fill="#1a1f6e" opacity="0.6"/>
+  <text x="450" y="85" font-family="Segoe UI, Arial, sans-serif" font-size="36" font-weight="bold" fill="#ffffff" text-anchor="middle">Hi there! I'm Parth Shewale 👋</text>
+  <text x="450" y="125" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#c4b5fd" text-anchor="middle">Final Year AI &amp; Data Science Student | Aspiring Data Scientist</text>
+</svg>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -189,6 +202,18 @@ Welcome to my GitHub! I'm a passionate **Final Year AI & Data Science Student** 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6c3de8,50:1a1f6e,100:0d1117&height=120&section=footer" />
+<svg width="100%" height="120" viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="fg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#6c3de8"/>
+      <stop offset="50%" style="stop-color:#1a1f6e"/>
+      <stop offset="100%" style="stop-color:#0d1117"/>
+    </linearGradient>
+  </defs>
+  <path d="M0,40 C150,80 300,20 450,60 C600,100 750,30 900,60 L900,0 L0,0 Z" fill="#6c3de8" opacity="0.4"/>
+  <path d="M0,30 C200,65 400,15 600,50 C750,75 850,25 900,45 L900,0 L0,0 Z" fill="#1a1f6e" opacity="0.6"/>
+  <rect width="900" height="120" fill="url(#fg)" opacity="0.85"/>
+  <text x="450" y="72" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#c4b5fd" text-anchor="middle">⭐ Thanks for visiting! Let's build something amazing together 🚀</text>
+</svg>
 
 </div>
