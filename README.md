@@ -145,15 +145,10 @@ Welcome to my GitHub! I'm a passionate **Final Year AI & Data Science Student** 
 
 ## ⏱️ Weekly Coding Activity
 
+> 🔧 *Auto-updated daily via WakaTime — tracks real coding time across languages & projects.*
+
 <!--START_SECTION:waka-->
-<!-- This section is automatically updated by the WakaTime GitHub Action -->
 <!--END_SECTION:waka-->
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ShewaleParth&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=6c3de8&layout=compact&langs_count=8&custom_title=⏱️+Weekly+Coding+Breakdown" />
-
-</div>
 
 ---
 
