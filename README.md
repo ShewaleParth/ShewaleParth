@@ -13,7 +13,7 @@
   <path d="M0,140 C150,100 300,180 450,140 C600,100 750,160 900,130 L900,200 L0,200 Z" fill="#6c3de8" opacity="0.4"/>
   <path d="M0,160 C200,130 400,175 600,150 C750,130 850,165 900,155 L900,200 L0,200 Z" fill="#1a1f6e" opacity="0.6"/>
   <text x="450" y="85" font-family="Segoe UI, Arial, sans-serif" font-size="36" font-weight="bold" fill="#ffffff" text-anchor="middle">Hi there! I'm Parth Shewale 👋</text>
-  <text x="450" y="125" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#c4b5fd" text-anchor="middle">Final Year AI &amp; Data Science Student | Aspiring Data Scientist</text>
+<text x="450" y="125" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#c4b5fd" text-anchor="middle"> AI &amp; Data Science Student | Aspiring Data Scientist</text>
 </svg>
 
 <!-- Typing Animation -->
