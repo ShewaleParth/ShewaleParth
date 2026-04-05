@@ -111,6 +111,8 @@ Welcome to my GitHub! I'm a passionate **Final Year AI & Data Science Student** 
 
 | 🗂️ Project | 📝 Description | 🛠️ Tech Stack |
 |:---:|:---|:---:|
+| 📦 **AI-Based Inventory Control System** | Smart AI system to predict stock levels, detect shortages, and optimize depot inventory management | `Python` `Machine Learning` `Pandas` `Scikit-Learn` `Flask` |
+| 📰 **Fact Check:Misinformation Detection** | NLP-based model to detect misleading or false information in text data for improved information reliability | `Python` `NLP` `Scikit-Learn` `Pandas` `TF-IDF` |
 | 🚗 [**VahanCheck**](https://github.com/ShewaleParth/VahanCheck) | Vehicle information & verification system using real-time number plate detection | `Python` `YOLOv5` `EasyOCR` `OpenCV` `Flask` |
 | 💳 [**Credit Card Fraud Detection**](https://github.com/ShewaleParth/Credit-Card-Fraud-Detection) | ML model to detect fraudulent transactions with high precision | `Python` `Scikit-Learn` `Pandas` `Imbalanced-Learn` |
 | 💰 [**Salary Prediction**](https://github.com/ShewaleParth/Salary_Prediction) | Predictive analytics web app for salary estimation | `Python` `Streamlit` `Random Forest` `EDA` |
